@@ -7,7 +7,7 @@ A comprehensive Tableau dashboard to analyze stakeholder performance, insurer co
 ## Live Dashboard
 
 - **View on Tableau Public**  
- [Click here to open the interactive dashboard](#)
+ [Click here to open the interactive dashboard](https://public.tableau.com/views/StakeholderInsightsandPerformanceDashboard_17516959777410/StakeholderInsightsandPerformanceDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Purpose
 
@@ -76,15 +76,5 @@ The dashboard provides a unified view of key business metrics across stakeholder
 |-----------|--------------------------------------|
 | **Tableau** | Data visualization and interactivity |
 | **Excel** | Data cleaning and source file     |
-
-
----
-
-## Author
-
-**Soubhik Sen**  
-M.Tech, Operations Research | Programmer & Data Analyst  
-- [LinkedIn](https://www.linkedin.com/in/soubhik-sen-sushruta19/)
-- Email: ss.24p10223@nitdgp.ac.in | sensoubhik2001@gmail.com
 
 
